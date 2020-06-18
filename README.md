@@ -1,2 +1,2 @@
 # calamares-configs
-calamares configs for laxeros
+calamares configs for laxeros 1.0
