@@ -49,6 +49,17 @@ Presentation
 
     }
 
+    Slide {
+
+        Image {
+            id: background2
+            source: "calamares-1.png"
+            width: 800; height: 350
+            fillMode: Image.PreserveAspectFit
+			anchors.centerIn: parent
+        }
+
+    }
 
     Slide {
 
