@@ -100,8 +100,8 @@ Presentation
     Slide {
 
         Image {
-            id: background4
-            source: "calamares-3.png"
+            id: background6
+            source: "calamares-5.png"
             width: 800; height: 350
             fillMode: Image.PreserveAspectFit
 			anchors.centerIn: parent
